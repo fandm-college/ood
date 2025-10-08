@@ -1,8 +1,23 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: OpenOnDemand (OOD) Tutorial
+description: Research Computing OOD documentation
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://fandm-college.github.io
+baseurl: ood
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+# Callout configuration
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red

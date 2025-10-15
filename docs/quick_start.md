@@ -36,8 +36,8 @@ For complete details on transferring files to/from the cluster please refer to
 
 - If you routinely work with larger files, then in all likelihood we have large network storage
   on the cluster for your research.  You should move files to that however you normally might
-  do that (e.g., via Globus) and then use the terminal to copy files between the network storage
-  and your home directory on the cluster.
+  do that (e.g., via Globus).  You can then either use the terminal(and Linux commands) or the File Manager to 
+  copy files between the network storage and your home directory on the cluster.
 
 
 

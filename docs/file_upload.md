@@ -4,10 +4,12 @@ layout: page
 nav_order: 4
 ---
 
-To upload/download files to the cluster choose the Files menu option, then Home Directory.
+OOD has a graphical file manager that can be accessed by choosing:
+- **Files**
+- **Home Directory**
+
+![OOD file manager menu item](../assets/images/file_manager.png)
 
 {: .note }
->  There is an upload/download file size limit of 10GB.
+>  The file manager has an upload/download file size limit of 10GB.
 >
-> If you need to handle larger files then 
-

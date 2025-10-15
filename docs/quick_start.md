@@ -27,10 +27,12 @@ a terminal by selecting
 # Transferring files
 
 For complete details on transferring files to/from the cluster please refer to 
-[file upload/download documentation](file_upload.md).  In brief,
+[file upload/download documentation](file_upload.html).  In brief,
 
 - Use OOD's file manager (**Files-->Home Directory**) to upload/download files up to 10GB in size
+
 ![OOD file manager menu item](../assets/images/file_manager.png)
+
 
 - If you routinely work with larger files, then in all likelihood we have large network storage
   on the cluster for your research.  You should move files to that however you normally might

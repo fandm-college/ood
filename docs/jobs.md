@@ -1,7 +1,7 @@
 ---
-title: Jobs
+title: Compute Jobs
 layout: page
-nav_order: 2
+nav_order: 3
 ---
 
 # Submitting jobs

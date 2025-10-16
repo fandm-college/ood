@@ -12,9 +12,9 @@ It  can be accessed by selecting:
 - **Files**
 - **Home Directory**
 
-## Upload/download files
-
 ![OOD file manager menu item](../assets/images/file_manager.png)
+
+## Upload/download files
 
 {: .note }
 >  The file manager has an upload/download file size limit of 10GB.

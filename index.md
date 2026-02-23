@@ -6,7 +6,7 @@ nav_order: 1
 
 # Overview
 
-OpenOnDemand (hence OOD) is the web portal to access the F&M research cluster.
+OpenOnDemand (OOD) is the web portal to access the F&M research cluster.
 Using OOD you can
 
 - Create, edit, and submit compute jobs
